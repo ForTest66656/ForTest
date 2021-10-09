@@ -1,4 +1,6 @@
-# LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Flexible and Consistent Face Alignment
+# LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Cross-annotation Face Alignment
+
+This repository contains an implementation of LDDMM-Face for the ICLR 2022 submission "LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Cross-annotation Face Alignment".
 
 ## Quick start
 ### Environment
