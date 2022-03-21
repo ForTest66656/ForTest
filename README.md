@@ -1,6 +1,6 @@
 # LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Cross-annotation Face Alignment
 
-This repository contains an implementation of LDDMM-Face for the ICLR 2022 submission "LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Cross-annotation Face Alignment".
+This repository contains an implementation of LDDMM-Face for the TIP submission "LDDMM-Face: Large Deformation Diffeomorphic Metric Learning for Cross-annotation Face Alignment".
 
 ## Quick start
 ### Environment
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-1. You need to download the annotations files which have been processed from [OneDrive](https://1drv.ms/u/s!AiWjZ1LamlxzdmYbSkHpPYhI8Ms).
+1. You need to download the annotations files which have been processed from [GoogleDrive](https://drive.google.com/drive/folders/1XhQParhbEKzOb2TKbDHlvYAhSceNAjW2?usp=sharing).
 
 2. You need to download images (300W, WFLW) from official websites and then put them into `images` folder for each dataset.
 
