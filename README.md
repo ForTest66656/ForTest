@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-1. You need to download the annotations files which have been processed from [GoogleDrive](https://drive.google.com/drive/folders/1XhQParhbEKzOb2TKbDHlvYAhSceNAjW2?usp=sharing).
+1. You need to download the annotations files which have been processed from [OneDrive](https://1drv.ms/u/s!AiWjZ1LamlxzdmYbSkHpPYhI8Ms).
 
 2. You need to download images (300W, WFLW) from official websites and then put them into `images` folder for each dataset.
 
@@ -74,7 +74,7 @@ python tools/train.py --cfg <CONFIG-FILE>
 ```
 
 ### Test
-Download pretrained models from [OneDrive](https://bigbigchina-my.sharepoint.com/:f:/g/personal/t4486_tvv_ink/EtHI_VGMe-5LmN_unFK2U00B6QR_3yJs-WEnWcOWeB4hMA?e=h9eHkW).
+Download pretrained models from [Google Drive](https://drive.google.com/drive/folders/1XhQParhbEKzOb2TKbDHlvYAhSceNAjW2?usp=sharing).
 ```shell
 python tools/test.py --cfg <CONFIG-FILE> --model-file <MODEL-FILE>
 ```
